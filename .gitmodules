@@ -1,6 +1,3 @@
 [submodule "blog/ghost"]
 	path = blog/ghost
 	url = https://github.com/bsampath/Ghost
-[submodule "blog/ghostium"]
-	path = blog/ghostium
-	url = https://github.com/bsampath/ghostium
