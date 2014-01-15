@@ -3,3 +3,5 @@
 other-images/
 test/
 npm-debug.log
+*.sublime-project
+*.sublime-workspace
